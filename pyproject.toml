@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "agentic-ai-course-app"
+version = "0.1.0"
+description = "Agentic AI Streamlit App"
+authors = ["ZARMAIN-AHMED"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+streamlit = "^1.44.0"
+requests = "^2.32.3"
+tenacity = "^9.1.2"
+toml = "^0.10.2"
+tornado = "^6.4.2"
+watchdog = "^6.0.0"
+
+[tool.poetry.packages]
+# Ensure that packages section is outside and directly under the [tool.poetry]
+packages = [{ include = "webassig07" }]

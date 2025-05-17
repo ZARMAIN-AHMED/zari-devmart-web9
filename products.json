@@ -1,0 +1,52 @@
+[
+    {
+        "name": "OOP Mastery eBook",
+        "description": "Master Object-Oriented Programming with real Python projects",
+        "price": 25.0
+    },
+    {
+        "name": "OOP Book",
+        "description": "Learn OOP in Python",
+        "price": 30.0
+    },
+    {
+        "name": "Agentic ai course",
+        "description": "course",
+        "price": 15.0
+    },
+    {
+        "name": "Next.js Portfolio Template",
+        "description": "Professional portfolio template built with Tailwind and Next.js",
+        "price": 20.0
+    },
+    {
+        "name": "Streamlit AI Dashboard",
+        "description": "Build your own AI-powered dashboard with Python and Streamlit",
+        "price": 18.0
+    },
+    {
+        "name": "Figma template",
+        "description": "Modern, reusable Figma components for SaaS products and landing pages",
+        "price": 12.0
+    },
+    {
+        "name": "DevMart E-commerce Template",
+        "description": "Full e-commerce frontend in Next.js and Tailwind, inspired by this site",
+        "price": 22.0
+    },
+    {
+        "name": "Agentic AI Crash Course",
+        "description": "Learn how to build agent-based AI apps with Python and LangChain",
+        "price": 15.0
+    },
+    {
+        "name": "Python Game Source Code",
+        "description": "Download and learn from this fully playable Pygame-based platformer",
+        "price": 10.0
+    },
+    {
+        "name": "Flip card ",
+        "description": "Flip card game build with python and streamlit",
+        "price": 23.0
+    }
+]
