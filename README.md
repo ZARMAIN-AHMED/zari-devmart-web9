@@ -49,10 +49,5 @@ pip install -r requirements.txt
 
 # 5. Run the Streamlit app
 streamlit run app.py
->>>>>>> 365bb8e32337673d8ee377af207deab8ba5b1722
-"# zari-web9-devmart" 
-"# zari-devmart-web9" 
-"# zari-devmart-web9" 
-"# zari-devmart-web9" 
-"# zari-devmart-web9" 
-"# zari-devmart-web9" 
+
+
